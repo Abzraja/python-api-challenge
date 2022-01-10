@@ -1,6 +1,6 @@
 # Weather Analysis for Location Vs Equator, and Humidity HeatMap with Location Markers
 
-<img src="Heatmap and Hotel Markers/output/hotel_marker_map.png">
+<img src="Heatmap and Hotel Markers/output/hotel_marker_map.PNG">
 
 ### Summary
 * Performed an analysis on how weather changes in relation to the distance of the location from the equator.
