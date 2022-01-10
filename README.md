@@ -30,7 +30,7 @@
 
 <img src="Heatmap and Hotel Markers/output/heatmap.png">
 
-<img src="Heatmap and Hotel Markers/output/hotel_marker_map.png">
+<img src="Heatmap and Hotel Markers/output/hotel_marker_map.PNG">
 
 <br />
 <br />
